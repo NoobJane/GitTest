@@ -9,7 +9,7 @@
 ## 安装SS
 
 #### CentOS 6
-1. 用yum安装python setuptools和pip：`yum install python setuptools && easy_install pip`。++若是pip安装失败，则百度一下linux如何安装pip。++
+1. 用yum安装python setuptools和pip：`yum install python setuptools && easy_install pip`。若是pip安装失败，则百度一下linux如何安装pip。
 2. 安装SS：`pip install shadowsocks`
 
 #### Debian / Ubuntu
